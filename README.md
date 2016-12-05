@@ -46,6 +46,6 @@ The views are developed using PUG. They are stylized using Bootstrap.
 
 We use Passport technology for registration and login. The passport local and passport facebook strategies. 
 
-Some additional technologies used: jQuery autocomplete, jsPDF, Ajax, Connect-flash.
+Some additional technologies used: jQuery autocomplete, jsPDF, Ajax, Connect-flash, Multer.
 
 We use Mocha, Chai, Sinon, Node-mocks-http and ESLint to provide the high quality of our code, and to fully test our application.

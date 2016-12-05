@@ -4,7 +4,7 @@
 const { expect } = require("chai"),
     sinonModule = require("sinon");
 
-describe("Test invoices data", () => {
+describe("Test user data", () => {
     let sinon;
 
     beforeEach(() => {
